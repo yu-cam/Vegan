@@ -17,7 +17,7 @@
 ヴィーガンのための情報交換、共有
 
 ### 機能一覧
-（https://docs.google.com/spreadsheets/d/1UtdHq0BF18YyZbIVAAGidLEGvA01oPkF1IaIVy93Dhg/edit#gid=0）s
+（https://docs.google.com/spreadsheets/d/1UtdHq0BF18YyZbIVAAGidLEGvA01oPkF1IaIVy93Dhg/edit#gid=0）
 
 ## 開発環境
 - OS：Linux(CentOS)
